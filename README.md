@@ -9,7 +9,7 @@
 Clone the repository, and run the installer script.
 
 ```fish
-git clone https://github.com/Isotope-Theme/xterm.git
+git clone https://github.com/Isotope-Theme/Xresources.git
 ./install.sh
 ```
 
@@ -21,7 +21,7 @@ a new one if neccesary.
 To clone the repository, and create a link to the `.Xresources` file.
 
 ```fish
-git clone https://github.com/Isotope-Theme/xterm.git
+git clone https://github.com/Isotope-Theme/Xresources.git
 ```
 
 Then copy or link `Xresources` as `.Xresources` to your `$HOME` directory.
