@@ -1,4 +1,35 @@
-! Isotope Xresources palette
+! Isotope Color Pallets {{{
+*.red:         #F44336
+*.pink:        #E91E63
+*.purple:      #9C27B0
+*.deep-purple: #673AB7
+*.indigo:      #3F51B5
+*.blue:        #2196F3
+*.pale-blue:   #03A9F4
+*.cyan:        #00BCD4
+*.teal:        #57C7B8
+*.green:       #4CAF50
+*.pale-green:  #8BC34A
+*.lime:        #CDDC39
+*.yellow:      #FFEB3B
+*.amber:       #FFC107
+*.orange:      #FF9800
+*.deep-orange: #FF5722
+*.brown:       #795548
+
+*.grey1:  #ECEFF1
+*.grey2:  #CFD8DC
+*.grey3:  #B0BEC5
+*.grey4:  #90A4AE
+*.grey5:  #78909C
+*.grey6:  #607D8B
+*.grey7:  #546E7A
+*.grey8:  #455A64
+*.grey9:  #37474F
+*.grey10: #263238
+! }}}
+
+! Isotope Dark for Xresources {{{
 *.foreground: #ECEFF1
 *.background: #263238
 *.color0:     #37474F
@@ -17,3 +48,4 @@
 *.color13:    #D05CD3
 *.color14:    #62EFFF
 *.color15:    #CFD8DC
+! }}}
